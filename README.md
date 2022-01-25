@@ -1,1 +1,5 @@
-# PlayBallGame-Unity
+# PlayBallGame입니다 
+
+# 간단한 게임으로 unity로 제작하였습니다.
+
+# Ball을 움직여 목표물을 먹구 포탈로 이동하면 스테이지 클리어입니다. 
